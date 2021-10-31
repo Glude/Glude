@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glude&label=Profile%20views&color=b40e0e&style=flat" alt="glude" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gludee" target="blank"><img src="https://img.shields.io/twitter/follow/gludee?logo=twitter&style=for-the-badge" alt="gludee" /></a> </p>
+<p align="left"> <a href="https://twitter.com/itsGlude" target="blank"><img src="https://img.shields.io/twitter/follow/gludee?logo=twitter&style=for-the-badge" alt="gludee" /></a> </p>
 
 - 🔭 I’m currently working on **VACERP**
 
