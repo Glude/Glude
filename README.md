@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsGlude" target="blank"><img src="https://img.shields.io/twitter/follow/gludee?logo=twitter&style=for-the-badge" alt="glude" /></a> </p>
 
-- 🔭 I’m currently working on **VACERP**
-
-- 🌱 I’m currently learning **courses**
+- 🌱 I’m currently learning **New Frontend Frameworks**
 
 - 💬 Ask me about **food**
 
